@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Copatible"consent="IE=edge">
+        <meta name="viewport"content="width=device-witch,initial-scale=1.0">
+        <title>Food Recepies</title>
+    </head>
+    <body>
+        <h1>FR</h1>
+        <a href="Fruits"><button>Take me to the Fruits Section</button></a>
+        <a href="Meats"><button>Take me to the Meats Section</button></a>
+        <a href="Vegetables"><button>Take me to the Vegetables Section</button></a>
+        <br>
+        <img height="100px"alt=""src="INGRESAR LINK THE FOTO">
+        <img height="100px"alt=""src="INGRESAR LINK THE FOTO">
+        <img height="100px"alt=""src="INGRESAR LINK THE FOTO">
+        <img height="100px"alt=""src="INGRESAR LINK THE FOTO">
+
+        <p>Aca va un parrafo de lo q hace el local (hacer una oracion)</p>
+        <hr>
+        <h2>La mission del lugar (hacer oracion)</h2>
+        <p> Hacer un parrafo</p>
+        <br>
+        <h3>Food Collection</h3>
+        <ul>
+            <li>id="Fruits> Juccy Fruits
+                <ul>
+                    <a href="Fruits.html"><li>blabla1</li></a>
+                    <a href="Fruits.html"><li>blabla2</li></a>
+                    <a href="Fruits.html"><li>blabla3</li></a>
+                    </ul>
+                    </li>
+            <li id="Meats">Meet lovers
+                <ul>
+                    <a href="Meats.html"><li>blabla4</li></a>
+                    <a href="Meats.html"><li>blabla5</li></a>
+                    <a href="Meats.html"><li>blabla6</li></a>
+                </ul>
+            </li>
+            <li id="Vegetables"> Vegan
+                <ul>
+                    <a href="Vegetables.html"><li>blabla7</li></a>
+                    <a href="Vegetables.html"><li>blabla8</li></a>
+                    <a href="Vegetables.html"><li>blabla9</li></a>
+                </ul>
+            </li>
+        </ul>
+    </body>
+</html>
+
+
+   
